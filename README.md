@@ -156,5 +156,5 @@ The fitted curve and original data points are automatically plotted in an extern
 
 Open source under MIT to enable implementation of additional functionalities and further development of the tool by the user.
 
-Aleksi Mattsson
+Aleksi Mattsson,
 Ville Tikka
